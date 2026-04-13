@@ -1,0 +1,6 @@
+% Model,CurrentThermalModel.mph
+% Version,COMSOL 6.1.0.357
+"% Date,""Apr 9 2026, 16:38"""
+% Table,Temp evaluation - Point Evaluation 1
+307 Temperature (degC) BL cond,308 Temperature (degC) BL jacket,309 Temperature (degC) BL air,310 Temperature (degC) TL cond,311 Temperature (degC) TL jacket,312 Temperature (degC) TL air,303 Temperature (degC) BR cond,304 Temperature (degC) BR jacket,305 Temperature (degC) BR air
+62.24341275190915,53.36985654446738,40.275954054250576,63.90366398090737,54.3935541526148,38.41616855871058,60.85429678913306,51.88259926746156,37.764251480247765
