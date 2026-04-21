@@ -1,0 +1,6 @@
+% Model,CurrentThermalModelTrefoil.mph
+% Version,COMSOL 6.1.0.357
+% Date,"Apr 15 2026, 14:50"
+% Table,Temp evaluation - Point Evaluation 1
+% "Temperature (degC), Point: 48","Temperature (degC), Point: 54","Temperature (degC), Point: 77","Temperature (degC), Point: 83","Temperature (degC), Point: 84","Temperature (degC), Point: 105","Temperature (degC), Point: 111"
+87.04386190810084,77.65541723930471,87.64331660878514,75.75042597941632,57.948277400106065,86.37982852775309,76.99407378612591
