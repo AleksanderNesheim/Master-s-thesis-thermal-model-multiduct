@@ -1,6 +1,6 @@
-% Model,CurrentThermalModel.mph
+% Model,CurrentThermalModel 420 A.mph
 % Version,COMSOL 6.1.0.357
-% Date,"Apr 22 2026, 09:41"
+% Date,"Apr 22 2026, 13:47"
 % Table,Temp evaluation - Point Evaluation 1
 "Temperature (degC), Point: 37","Temperature (degC), Point: 43","Temperature (degC), Point: 44","Temperature (degC), Point: 52","Temperature (degC), Point: 58","Temperature (degC), Point: 59","Temperature (degC), Point: 60","Temperature (degC), Point: 107","Temperature (degC), Point: 113","Temperature (degC), Point: 114"
-63.26018707565885,54.331952980360654,40.58592385808657,64.32543924375443,54.90913762262562,39.257398923084,31.081783748012697,61.38858644978126,52.35985783085346,37.68292823669117
+63.13959051241068,54.21517610641479,40.581970575095056,64.31250312058637,54.870723735901606,39.24214565779022,31.055056697584746,61.322296405163,52.30129697689097,37.719386002343526
